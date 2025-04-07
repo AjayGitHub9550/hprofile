@@ -1,4 +1,4 @@
-name: vprofile-workflow
+name: Hprofile-workflow
 on: workflow_dispatch
 jobs:
   Testing:
